@@ -1,0 +1,9 @@
+{
+
+  "https://github.com/cglewis/wharf",
+    "uri": "http://dockerwharf.com/",
+    "notify": "@defermat",
+    "branch": "master",
+  }
+
+}
